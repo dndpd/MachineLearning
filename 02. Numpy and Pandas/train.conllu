@@ -1,0 +1,11 @@
+# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0003
+# text = UPDATE:
+1	UPDATE	NOUN	0	root
+2	:	PUNCT	1	punct
+
+# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0025
+# text = IAEA Report Lessons learned
+1	IAEA	PROPN	2	compound
+2	Report	NOUN	0	root
+3	Lessons	PROPN	2	appos
+4	learned	VERB	3	acl
